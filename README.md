@@ -1,5 +1,4 @@
 ### Pacote de idiomas em Português Brasil para o navegador iceape-UXP
-Baseado no pacote de idiomas russo feito por Zanud
 
 Este repositório contém arquivos para o pacote de idioma Português Brasil para o ![roytam1's iceape-UXP browser](https://rtfreesoft.blogspot.com/search/label/browser), baseado no iceape feito pelo projeto Hyperbola (por sua vez baseado no Seamenkey 2.49).
 
